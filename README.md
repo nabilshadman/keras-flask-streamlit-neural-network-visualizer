@@ -67,15 +67,28 @@ streamlit run app.py
    - Layer 2: 32 neurons' activation patterns
    - Output Layer: 10 neurons' activation probabilities
 
+
 ## 📊 Visualization Examples
 
-| Initial View | Prediction Visualization |
-|-------------|-------------------------|
-| ![Initial View](demo/0_initial.jpg) | ![Prediction](demo/1_get_prediction_visualization.jpg) |
+<table width="100%">
+<tr>
+<td width="50%"><strong>Initial View</strong></td>
+<td width="50%"><strong>Prediction Visualization</strong></td>
+</tr>
+<tr>
+<td><img src="demo/0_initial.jpg" width="100%"></td>
+<td><img src="demo/1_get_prediction_visualization.jpg" width="100%"></td>
+</tr>
+<tr>
+<td><strong>Input Image</strong></td>
+<td><strong>Another Prediction</strong></td>
+</tr>
+<tr>
+<td><img src="demo/2_sidebar_input.jpg" width="100%"></td>
+<td><img src="demo/3_get_prediction_another.jpg" width="100%"></td>
+</tr>
+</table>
 
-| Input Image | Another Prediction |
-|-------------|-------------------|
-| ![Sidebar Input](demo/2_sidebar_input.jpg) | ![Another Prediction](demo/3_get_prediction_another.jpg) |
 
 ## 📁 Project Structure
 ```
